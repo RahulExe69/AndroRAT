@@ -1,7 +1,12 @@
-[AndroRAT](https://github.com/The404Hacking/AndroRAT)
-========
+# 7xSentinel
 
-Remote Administration Tool for Android
+**Android remote-administration research project**
+
+7xSentinel is a rebranded fork of the original [AndroRAT project by The404Hacking](https://github.com/The404Hacking/AndroRAT). This first pass changes only the README's project heading and introduction; application code, package names, build configuration, and runtime behaviour are untouched.
+
+Use this software only on devices you own or where you have explicit authorization to administer. Review the project's capabilities and legal requirements before use.
+
+---
 
 Androrat is a client/server application developed in Java Android for the client side and in Java/Swing for the Server.
 
@@ -78,6 +83,6 @@ The two screenshots below shows two others tabs for two functionalities which ar
 
 [Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
 
-[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/)
 
 [Email](mailto:The404Hacking.Team@Gmail.Com)
