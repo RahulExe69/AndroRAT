@@ -83,6 +83,6 @@ The two screenshots below shows two others tabs for two functionalities which ar
 
 [Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
 
-[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/)
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com)
 
 [Email](mailto:The404Hacking.Team@Gmail.Com)
